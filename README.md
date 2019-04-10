@@ -10,7 +10,7 @@ Data source: from this place
 
 * [`final_report.md`](final_report.md) is my final report write-up
 
-* [`process_data.ipynb`](process_data.ipynb) is part 1 of my code, which focuses on data clean up. A markdown version is found in [`process_data.md`](process_data.md). 
+* [`process_data.ipynb`](process_data.ipynb) is part 1 of my code, which focuses on data clean up. 
 
 * [`data/`](data) folder is where the original data files are found. 
 
@@ -20,3 +20,4 @@ Data source: from this place
  
 ## Visitors log
 My Visitors log file can be found here. Or not.  
+
